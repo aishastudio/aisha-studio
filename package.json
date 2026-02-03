@@ -1,0 +1,15 @@
+{
+  "name": "aisha-studio",
+  "version": "1.0.0",
+  "description": "Portfolio site for Aisha - Senior UX Designer & Consultant",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": ["ux", "portfolio", "design"],
+  "author": "Aisha",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

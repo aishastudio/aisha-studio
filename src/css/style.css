@@ -1,0 +1,239 @@
+/* Reset and Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-text: #1a1a1a;
+  --color-text-light: #666;
+  --color-background: #ffffff;
+  --color-accent: #0066cc;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-mono: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 6rem;
+  --max-width: 65rem;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: var(--color-background);
+  line-height: 1.6;
+  font-size: 1.125rem;
+}
+
+/* Typography */
+h1, h2, h3 {
+  line-height: 1.2;
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: var(--spacing-md);
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin-top: var(--spacing-lg);
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+p {
+  margin-bottom: var(--spacing-sm);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Layout */
+header, main, footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--spacing-md) var(--spacing-sm);
+}
+
+header {
+  padding-top: var(--spacing-md);
+  padding-bottom: var(--spacing-md);
+}
+
+/* Navigation */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .logo {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+nav ul {
+  display: flex;
+  gap: var(--spacing-md);
+  list-style: none;
+}
+
+nav a {
+  color: var(--color-text);
+}
+
+nav a:hover {
+  color: var(--color-accent);
+}
+
+/* Hero Section */
+.hero {
+  padding: var(--spacing-xl) 0;
+}
+
+.hero h1 {
+  font-size: 2.75rem;
+  max-width: 50rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+  color: var(--color-text-light);
+  max-width: 45rem;
+  margin-bottom: var(--spacing-md);
+}
+
+.cta {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--color-accent);
+  color: white;
+  border-radius: 0.25rem;
+  font-weight: 500;
+}
+
+.cta:hover {
+  background: #0052a3;
+  text-decoration: none;
+}
+
+/* Case Studies */
+.work {
+  padding: var(--spacing-lg) 0;
+}
+
+.case-studies {
+  display: grid;
+  gap: var(--spacing-lg);
+  margin-top: var(--spacing-md);
+}
+
+.case-study-tile {
+  border-top: 2px solid #e5e5e5;
+  padding-top: var(--spacing-md);
+}
+
+.case-study-tile h3 {
+  margin-bottom: var(--spacing-xs);
+}
+
+.case-study-tile p {
+  color: var(--color-text-light);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* About Page */
+.about-intro,
+.skills,
+.education,
+.experience {
+  margin-bottom: var(--spacing-lg);
+}
+
+.skills ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  columns: 2;
+  column-gap: var(--spacing-md);
+}
+
+.skills li {
+  margin-bottom: var(--spacing-xs);
+  break-inside: avoid;
+}
+
+.job {
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-md);
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.job:last-child {
+  border-bottom: none;
+}
+
+.tenure {
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+  margin-bottom: var(--spacing-xs);
+}
+
+/* Footer / Connect */
+footer {
+  border-top: 2px solid #e5e5e5;
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-lg);
+}
+
+.connect h2 {
+  margin-top: 0;
+  margin-bottom: var(--spacing-md);
+}
+
+.connect ul {
+  list-style: none;
+  margin-bottom: var(--spacing-lg);
+}
+
+.connect li {
+  margin-bottom: var(--spacing-xs);
+}
+
+footer p {
+  color: var(--color-text-light);
+  font-size: 0.95rem;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .hero h1 {
+    font-size: 2rem;
+  }
+  
+  .skills ul {
+    columns: 1;
+  }
+  
+  nav ul {
+    gap: var(--spacing-sm);
+  }
+}
