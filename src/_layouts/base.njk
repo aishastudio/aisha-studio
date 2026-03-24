@@ -3,51 +3,54 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if title %}{{ title }} | {% endif %}Studio Aisha</title>
+  <meta name="description" content="{% if description %}{{ description }}{% else %}Senior UX consultant specializing in research-led strategy and design for complex products.{% endif %}">
   
-  {# SEO Meta Tags #}
-  <title>{{ title }} | Aisha - Senior UX Designer & Consultant</title>
-  <meta name="description" content="{{ description }}">
-  
-  {# Open Graph for social sharing #}
-  <meta property="og:title" content="{{ title }} | Aisha - Senior UX Designer & Consultant">
-  <meta property="og:description" content="{{ description }}">
+  <!-- Open Graph -->
+  <meta property="og:title" content="{% if title %}{{ title }} | {% endif %}Studio Aisha">
+  <meta property="og:description" content="{% if description %}{{ description }}{% else %}Senior UX consultant specializing in research-led strategy and design for complex products.{% endif %}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://aisha.studio{{ page.url }}">
   
-  {# Twitter Card #}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="{{ title }} | Aisha - Senior UX Designer & Consultant">
-  <meta name="twitter:description" content="{{ description }}">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if title %}{{ title }} | {% endif %}Studio Aisha">
+  <meta name="twitter:description" content="{% if description %}{{ description }}{% else %}Senior UX consultant specializing in research-led strategy and design for complex products.{% endif %}">
   
-  {# Canonical URL #}
+  <!-- Canonical URL -->
   <link rel="canonical" href="https://aisha.studio{{ page.url }}">
   
-  {# Stylesheet #}
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;700&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
   <link rel="stylesheet" href="/css/style.css">
   
-  {# Structured Data for SEO #}
+  <!-- Structured Data -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Person",
     "name": "Aisha",
-    "jobTitle": "Senior UX Designer & Consultant",
+    "jobTitle": "Senior UX Consultant",
     "url": "https://aisha.studio",
     "sameAs": [
       "https://www.linkedin.com/in/aisha"
     ],
-    "knowsAbout": ["UX Design", "User Research", "UX Strategy", "Usability Testing", "UX Audit"],
-    "hasOccupation": {
-      "@type": "Occupation",
-      "name": "UX Consultant",
-      "occupationLocation": {
-        "@type": "Place",
-        "address": {
-          "@type": "PostalAddress",
-          "addressLocality": "Montpellier",
-          "addressCountry": "FR"
-        }
-      }
+    "knowsAbout": [
+      "User Experience Design",
+      "UX Research",
+      "Usability Testing",
+      "Information Architecture",
+      "UX Strategy"
+    ],
+    "description": "Senior UX consultant specializing in research-led strategy and design for complex products.",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Montpellier",
+      "addressCountry": "FR"
     }
   }
   </script>
@@ -57,10 +60,15 @@
   <header>
     <nav>
       <a href="/" class="logo">Aisha</a>
+      <button class="hamburger" aria-label="Menu" aria-expanded="false">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
       <ul>
-        <li><a href="/">Work</a></li>
-        <li><a href="/about/">About</a></li>
-        <li><a href="/work-with-me/">Work with Me</a></li>
+        <li><a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}>Work</a></li>
+        <li><a href="/about/" {% if page.url == "/about/" %}aria-current="page"{% endif %}>About</a></li>
+        <li><a href="/work-with-me/" {% if page.url == "/work-with-me/" %}aria-current="page"{% endif %}>Work with Me</a></li>
       </ul>
     </nav>
   </header>
@@ -71,7 +79,10 @@
 
   <footer>
     <div class="connect">
-      <h2>👋 Let's connect.</h2>
+      <div class="connect-content">
+        <h2>👋 Let's connect.</h2>
+        <p>Whether you're looking to collaborate, have questions about UX, or just want to chat—I'd love to hear from you. I'm always happy to meet people, share knowledge, and mentor when I can.</p>
+      </div>
       <ul>
         <li><a href="mailto:hello@aisha.studio">Send a message</a></li>
         <li><a href="https://calendly.com/your-link">Schedule an intro call</a></li>
@@ -80,6 +91,39 @@
     </div>
     <p>&copy; {% year %} Aisha. All rights reserved.</p>
   </footer>
+
+  <script>
+    // Hamburger menu toggle
+    const hamburger = document.querySelector('.hamburger');
+    const navMenu = document.querySelector('nav ul');
+    
+    if (hamburger) {
+      hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        navMenu.classList.toggle('active');
+        const isExpanded = hamburger.getAttribute('aria-expanded') === 'true';
+        hamburger.setAttribute('aria-expanded', !isExpanded);
+      });
+      
+      // Close menu when clicking on a link
+      document.querySelectorAll('nav ul a').forEach(link => {
+        link.addEventListener('click', () => {
+          hamburger.classList.remove('active');
+          navMenu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        });
+      });
+      
+      // Close menu when clicking outside
+      document.addEventListener('click', (e) => {
+        if (!hamburger.contains(e.target) && !navMenu.contains(e.target)) {
+          hamburger.classList.remove('active');
+          navMenu.classList.remove('active');
+          hamburger.setAttribute('aria-expanded', 'false');
+        }
+      });
+    }
+  </script>
 
 </body>
 </html>

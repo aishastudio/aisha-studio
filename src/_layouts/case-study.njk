@@ -1,0 +1,127 @@
+---
+layout: base.njk
+---
+
+<article class="case-study">
+
+  <header class="case-study-header">
+    <nav class="case-study-back">
+      <a href="/">← Back to work</a>
+    </nav>
+    
+    {% if eyebrow %}
+    <span class="case-study-eyebrow">{{ eyebrow }}</span>
+    {% endif %}
+    <h1>{{ title }}</h1>
+    <p class="case-study-subtitle">{{ subtitle }}</p>
+  </header>
+
+  {% if heroImage %}
+  <figure class="case-study-hero">
+    <img src="{{ heroImage }}" alt="{{ title }}">
+  </figure>
+  {% endif %}
+
+  <section class="case-study-content">
+    {{ content | safe }}
+  </section>
+
+  <script>
+    // Restructure At a Glance and Outcome sections for two-column layout
+    (function() {
+      const content = document.querySelector('.case-study-content');
+      if (!content) return;
+      
+      // Find "At a Glance" and "Outcome" sections
+      const allParagraphs = content.querySelectorAll('p, h2');
+      let atAGlanceStart = null;
+      let outcomeStart = null;
+      
+      allParagraphs.forEach((el, index) => {
+        if (el.tagName === 'P' && el.querySelector('strong') && el.textContent.trim().startsWith('At a Glance')) {
+          atAGlanceStart = el;
+        }
+        if (el.tagName === 'H2' && el.textContent.trim() === 'Outcome') {
+          outcomeStart = el;
+        }
+      });
+      
+      if (atAGlanceStart && outcomeStart) {
+        // Create wrapper div
+        const wrapper = document.createElement('div');
+        wrapper.className = 'case-study-intro';
+        
+        // Create At a Glance card
+        const atAGlanceCard = document.createElement('div');
+        atAGlanceCard.className = 'at-a-glance';
+        
+        // Move At a Glance content into card
+        let currentEl = atAGlanceStart;
+        const atAGlanceElements = [];
+        while (currentEl && currentEl !== outcomeStart) {
+          const nextEl = currentEl.nextElementSibling;
+          if (currentEl.tagName === 'HR') {
+            currentEl = nextEl;
+            break;
+          }
+          atAGlanceElements.push(currentEl);
+          currentEl = nextEl;
+        }
+        
+        atAGlanceElements.forEach(el => atAGlanceCard.appendChild(el));
+        
+        // Create Outcome section wrapper
+        const outcomeSection = document.createElement('div');
+        outcomeSection.className = 'outcome-section';
+        
+        // Move Outcome content
+        currentEl = outcomeStart;
+        const outcomeElements = [];
+        while (currentEl) {
+          const nextEl = currentEl.nextElementSibling;
+          if (currentEl.tagName === 'HR') {
+            break;
+          }
+          if (currentEl.tagName === 'H2' && currentEl !== outcomeStart) {
+            break;
+          }
+          outcomeElements.push(currentEl);
+          currentEl = nextEl;
+        }
+        
+        outcomeElements.forEach(el => outcomeSection.appendChild(el));
+        
+        // Build the wrapper
+        wrapper.appendChild(outcomeSection);
+        wrapper.appendChild(atAGlanceCard);
+        
+        // Insert wrapper before the first HR after Outcome
+        const firstHR = content.querySelector('hr');
+        if (firstHR) {
+          content.insertBefore(wrapper, firstHR);
+        } else {
+          content.insertBefore(wrapper, content.firstChild);
+        }
+      }
+    })();
+  </script>
+
+  {% if prevCase or nextCase %}
+  <nav class="case-study-navigation">
+    {% if prevCase %}
+    <a href="{{ prevCase.url }}" class="case-study-nav-link prev">
+      <span class="nav-label">← Previous</span>
+      <span class="nav-title">{{ prevCase.title }}</span>
+    </a>
+    {% endif %}
+    
+    {% if nextCase %}
+    <a href="{{ nextCase.url }}" class="case-study-nav-link next">
+      <span class="nav-label">Next →</span>
+      <span class="nav-title">{{ nextCase.title }}</span>
+    </a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+</article>
