@@ -13,9 +13,9 @@ nextCase:
 ---
 
 **At a Glance**
-- **Timeline:** Project duration not specified in original
+- **Timeline:** 4 months
 - **Scope:** UX strategy, design, and launch for Genius Levels—transforming a static loyalty program into a tiered, dynamic system
-- **Role:** Designer partnering closely with Product Manager and Researcher
+- **Role:** Leading designer for web, partnering closely with Product Manager, Researcher, and Copywriter, and working with the app team to mirror experiences
 - **Key challenge:** Help users immediately recognize and understand a more complex loyalty model without adding friction
 
 ---
@@ -24,14 +24,14 @@ nextCase:
 
 **What I delivered:**
 
-A clear, tiered loyalty experience that users could understand at a glance, with a scalable communication system and centralized information architecture to support future program evolution.
+A communication system and experience design that helped users understand where they stood in the new tiered program and how to progress, with a centralized information architecture and scalable messaging framework to support future program evolution.
 
 **Core deliverables:**
 - **Value proposition canvas** based on existing research to define launch strategy
-- **UX audit** condensing research findings to position messaging and identify design patterns
+- **UX and copy audit** condensing research findings to position messaging, identify design patterns, and provide a foundation for our copywriter's strategy
 - **Reusable awareness cards** showing personalized user status, level, and benefits
 - **Redesigned Genius page** serving as single source of truth for program information
-- **Launch campaign** including email and dismissable notifications tested through eye-tracking open labs
+- **Launch campaign** including email and dismissable notifications tested thoroughly in a day of open labs in our research lab
 
 
 **Impact:**
@@ -45,52 +45,67 @@ A clear, tiered loyalty experience that users could understand at a glance, with
 
 ## Context
 
-Genius, Booking.com's loyalty program, started as a static 10% discount with a handful of small perks. The business wanted to evolve it into a tiered, dynamic program that could support growth and increased engagement.
+Genius, Booking.com's loyalty program, started as a static 10% discount with a handful of small perks. The business wanted to evolve it into a tiered, dynamic program that could support growth and give users a clearer picture of where they stood and what their loyalty actually earned them.
 
 ---
 
 ## Challenge
 
-**The core problem:** Users needed to:
+**The core problem:** The shift from a flat discount to a multi-level program meant users would need to understand where they stood with Booking.com in a way they never had before. They needed to:
 - Immediately recognize their status in the new tiered program
 - Understand how progression worked without added friction
-- See clear value in each tier to encourage engagement
+- See clear value in each tier so the change felt like a genuine reward
 
-**The constraints:** At the same time, the experience had to work across surfaces, support future growth, and launch on a compressed timeline.
+**The constraints:** On top of that, the experience had to work across surfaces, support future growth, and launch on a tight deadline.
 
 ---
 
 ## My Role
 
-I partnered closely with a Product Manager and Researcher as the primary designer on the initiative. I led UX strategy, structure, and validation, with a strong focus on early alignment and collaboration to support a fast, confident release.
+I was the leading designer for web on this initiative, partnering closely with a Product Manager, Researcher, and Copywriter, and working with the app team to mirror experiences in a way that better fit their platform. My focus was on UX strategy, structure, and validation, and I relied heavily on aligning and collaborating early on to make sure we could move quickly without second-guessing our direction later.
 
 ---
 
 ## Approach
 
-**Research-informed strategy.** Created a value proposition canvas based on previous research to define our launch strategy and positioning for the tiered program.
+**Research-informed strategy.** Together with my Product Manager, we created a value proposition canvas based on previous research to define our launch strategy and positioning for the tiered program.
 
-**Audit-driven design decisions.** Condensed existing research into a UX audit that helped us position messaging and understand the best design patterns to use, rather than starting from scratch.
+**Audit-driven design decisions.** I condensed everything I had received from prior research into a UX and copy audit that helped us position messaging and understand the best design patterns to use. Beyond saving us from starting from scratch, it helped us identify messaging we needed to remove or replace so the experience felt streamlined and nothing conflicted with the new program structure.
 
-**User-led iteration.** Set up user tests and open labs with our researcher to validate and adjust the MVP based on real feedback, not assumptions.
+**User-led iteration.** I set up user tests and an open lab with our researcher to validate and adjust the MVP so we were iterating on what we were seeing from users, not on what we assumed would work.
 
-**Centralized information architecture.** Redesigned the Genius page to become a single source of truth, keeping communication light throughout the funnel while giving users one place to understand the full program.
+**Centralized information architecture.** Through the research and the UX audit, we saw a clear need to centralize all program information rather than scattering it across the funnel. I redesigned the Genius page to become a single source of truth, keeping communication light throughout the journey while giving users one place to understand the full program.
+
+<figure class="case-study-image">
+  <img src="/images/booking-genius-tiers-strategy.jpg" alt="User flow mapping and UX audit of existing Genius elements across the funnel">
+  <figcaption>User flow mapping and UX audit of existing Genius elements, containers, and templates across the funnel</figcaption>
+</figure>
 
 ---
 
 ## How I Contributed
 
-**Built launch strategy** by creating a value proposition canvas that translated existing research into clear positioning for tiered levels.
+**Shaped launch strategy with my PM** by creating a value proposition canvas that translated existing research into clear positioning for the tiered levels.
 
-**Designed awareness flow** based on user needs—previous research showed members want to quickly understand their standing, so I created reusable cards displaying signature, user name, level, and benefits overview.
+**Designed an awareness flow informed by previous research.** We already knew that loyalty program members want to quickly understand where they stand, and that personalized details with an overview of benefits helped increase recognition. So I designed reusable cards that displayed the user's signature, name, level, and a benefits overview, meant to be immediately recognizable and easy to scan.
 
-**Chose strategic placements** for communication (homepage, profile, post-booking pages) based on where users would most recognize and understand their status.
+**Chose strategic placements** for communication (homepage, profile, post-booking pages) based on where users would most naturally encounter and understand their status, led by user feedback on where these messages were most helpful.
+
+<figure class="case-study-image">
+  <img src="/images/booking-genius-tiers-awareness-cards.jpg" alt="Reusable awareness cards showing personalized Genius status on desktop and mobile">
+  <figcaption>Reusable awareness cards showing personalized Genius status, level, and benefits on desktop and mobile</figcaption>
+</figure>
 
 **Redesigned the Genius page** with an information architecture that explained the entire program in a way that was easy to understand and absorb, with room for personalization.
 
-**Added personalized profile block** showing travel history and which trips unlocked the user's current level—creating a feeling of recognition and achievement (based on user feedback during testing).
+**Added a personalized profile block** showing travel history and which trips unlocked the user's current level. This came directly from user feedback during testing, where people told us they wanted to see the program personalized to them and their travel history. It created a real feeling of recognition and achievement.
 
-**Coordinated launch campaign** including email tested through eye-tracking open labs and dismissable notifications to reach users who might miss standard messaging.
+<figure class="case-study-image">
+  <img src="/images/booking-genius-tiers-genius-page.jpg" alt="Redesigned Genius page with tier comparison, progression steps, and personalized travel history">
+  <figcaption>Redesigned Genius page with tier comparison, progression steps, and personalized travel history on mobile and desktop</figcaption>
+</figure>
+
+**Coordinated the launch campaign** including a one-time email we tested thoroughly in a day of open labs in our research lab, along with dismissable notifications to reach users who might miss our standard messaging.
 
 ---
 
@@ -109,22 +124,22 @@ These questions guided decisions throughout the project and helped the team stay
 </div>
 </div>
 
-<figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-overview.jpg" alt="Genius tiered program overview">
-  <figcaption>Add image: Program overview, tier visualization, or key surfaces</figcaption>
-</figure>
-
 ---
 
 ## Result
 
-The launch was successful, with an increase in Genius bookings and more Level 1 users progressing to Level 2—showing users understood how to use and progress in the program.
+The launch was successful, with an increase in Genius bookings and more Level 1 users progressing to Level 2, which showed us that users understood the new structure and were using it the way we had hoped.
 
-User feedback during campaign testing showed people felt engaged and inspired to rediscover the program, commenting that they finally understood how it worked. The campaign also surfaced helpful feedback on how users understood progression, which we used to improve ongoing communication.
+During campaign testing, the feedback was encouraging. Users said they felt engaged and inspired to rediscover the program, and several commented that they finally understood how it worked. The campaign also surfaced helpful feedback on how users understood progression, which gave us concrete direction for improving ongoing communication.
 
-The centralized Genius page became the single source of truth for program information, reducing the need for heavy communication throughout the funnel while still keeping users informed and engaged.
+The centralized Genius page became the single source of truth for program information, which meant we could keep communication light throughout the funnel while still making sure users had what they needed when they wanted it. It gave us a foundation we could build on, and it reduced the pressure to over-explain at every touchpoint.
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-final.jpg" alt="Final Genius tiers experience">
-  <figcaption>Add image: Final designs or live product screenshots</figcaption>
+  <img src="/images/booking-genius-tiers-campaign-email.jpg" alt="Launch campaign email introducing Genius Levels with progression tracker and tier comparison">
+  <figcaption>Launch campaign email introducing Genius Levels with progression tracker and tier comparison</figcaption>
+</figure>
+
+<figure class="case-study-image">
+  <img src="/images/booking-genius-tiers-notification.jpg" alt="Dismissable notification introducing Genius Levels across desktop and mobile surfaces">
+  <figcaption>Dismissable notification across desktop homepage, search results, property page, and confirmation</figcaption>
 </figure>

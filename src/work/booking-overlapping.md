@@ -24,73 +24,79 @@ nextCase:
 
 **What I delivered:**
 
-A research-backed strategy and suite of UX interventions across the booking funnel that helped users make confident decisions sooner—reducing overlapping bookings while addressing the stress and uncertainty that drove the behavior in the first place.
+A research-backed strategy and set of designed experiences across the booking funnel that helped users make confident decisions sooner, reducing overlapping bookings while addressing the stress and uncertainty that drove the behavior.
 
 **Core deliverables:**
 - **UX audit and journey map** identifying gaps and opportunities across the full funnel
 - **Two core personas** (Keepers and Replacers) with distinct pain points and behavioral triggers
 - **Strategic feature designs** including booking reminders, comparison tools, and reassurance messaging
-- **Testing frameworks** that involved cross-functional team members in research synthesis
+- **Research collaboration** including co-running interviews each quarter, conducting additional usability tests, and helping synthesize findings with the full team
 - **Iterative prototypes** validated through multiple rounds of user testing each quarter
 
 
 **Impact:**
 
-By grounding our roadmap in user behavior rather than isolated features, we were able to:
-- Reduce overlapping bookings both preventatively and post-booking
-- Maintain a strong experimentation success rate of **20–25% per quarter**
-- Increase feature adoption and trust, with usage lifts ranging from **50% to 80%** after iteration
-- Create alignment across teams working on conversion-critical surfaces
+By focusing our roadmap on what we understood about user behavior, we were able to reduce overlapping bookings both before they happened and after, which had been the goal from the start. Our experimentation success rate averaged 20–25% per quarter, and what mattered most about that number is that it meant we were getting better experiences to users sooner. Feature adoption grew with each iteration, with usage increasing from 50% to 80% as we refined the work. We also brought teams together who were all working on related parts of the journey but hadn't always been thinking about it as one connected experience.
 
-This approach allowed us to ship better experiences sooner, without trading short-term gains for long-term harm.
+The result was that we could ship with more confidence, knowing the work was grounded in real understanding and not just optimizing one metric at the expense of another.
 
 ---
 
 ## Context
 
-Overlapping bookings—reservations made for the same dates, whether fully or partially—were damaging to all parties involved. The business and partners risked having cancellations not rebooked, blocked availability kept other travelers from making the bookings they needed, and users with overlapping bookings were left stressed about making the right choice and managing multiple reservations.
+Overlapping bookings, reservations made for the same dates whether fully or partially, were damaging to everyone involved. The business and partners risked having cancellations not rebooked, blocked availability kept other travelers from making the bookings they needed, and the users themselves were often the most affected, left stressed about making the right choice while juggling multiple reservations they hadn't yet felt ready to let go of.
 
 ---
 
 ## Challenge
 
-**The core problem:** Most overlapping bookings were made because users were uncertain about their travel details or needed time to compare accommodations without missing out. This was especially complex because overlapping bookings were influenced by decisions made across search, booking, and post-booking. Many optimizations in these areas were conversion-driven and made in isolation, which meant improvements in one part of the funnel could unintentionally worsen the problem elsewhere.
+**The core problem:** Most overlapping bookings were intentional and rooted in stress and uncertainty. Users were uncertain about their travel details or needed time to compare accommodations without missing out, and booking multiple options was the only way they knew how to manage that uncertainty. This was especially complex because overlapping bookings were influenced by decisions made across search, booking, and post-booking. A lot of the work happening in those areas was focused on conversion and being done by separate teams, which meant improvements in one part of the funnel could unintentionally worsen the problem elsewhere.
 
-**The approach:** Before taking larger experimental swings, we needed to lay a behavioral foundation and ensure consistent coverage across the full journey.
+**The approach:** Before taking larger experimental swings, we needed to lay a behavioral foundation and make sure we had consistent coverage across the full journey so that we weren't solving one part of the problem while creating another.
 
 ---
 
 ## My Role
 
-I was the only designer on a small cross-functional team for **1.5 years**. I worked closely with product managers and researchers to connect research findings to product strategy and help build a roadmap focused on strategic behavior change.
+I was the only designer on a small cross-functional team for 1.5 years, which meant I was closely involved in nearly every part of the process. I worked with product managers and researchers to connect research findings to product strategy and help build a roadmap focused on strategic behavior change.
 
-I leveraged my research experience to run user interviews each quarter alongside our researcher, conducted additional usability tests as needed, and helped compile and analyze findings to uncover core personas and their triggers.
+Because of my research background, I was able to work alongside our researcher each quarter to run user interviews, and I also conducted additional usability tests as needed. I helped compile and analyze findings to uncover core personas and their triggers, and that closeness to the research shaped how I thought about every design decision.
 
 ---
 
 ## Approach
 
-**Research-driven persona discovery.** Working closely with our researcher each quarter to run user interviews, analyze behaviors and pain points, and uncover two core personas—Keepers and Replacers—each requiring different interventions.
+**Research-driven persona discovery.** Working closely with our researcher each quarter to run user interviews, analyze behaviors and pain points, and uncover two core personas, Keepers and Replacers, each needing a different approach.
 
-**Journey mapping to find gaps.** Completed a UX audit in the first quarter and mapped existing touchpoints to identify opportunities. This became a living document that shaped our strategy and helped us build a complete funnel tailored to alleviating our personas' biggest fears.
+**Journey mapping to find gaps.** In the first quarter, I completed a UX audit and mapped existing touchpoints to find where we had gaps and where we had opportunities. This became a living document that shaped our strategy and helped us build a complete funnel tailored to alleviating our personas' biggest fears.
 
-**Cross-functional involvement in research.** Enlisted team members across teams to help with note-taking during user tests so they could see results firsthand and be more invested in solutions.
+**Cross-functional involvement in research.** As a cross-functional team, we encouraged everyone to participate in note-taking during user tests so that the whole team could see results firsthand and feel more connected to the problems we were solving together.
 
-**Behavioral strategy over feature optimization.** Built our roadmap around the specific behaviors we wanted to change, not just conversion metrics.
+**Behavioral strategy over feature optimization.** We built our roadmap around the specific behaviors we wanted to change, which sounds obvious but was a real shift from the default of optimizing individual features for conversion.
+
+<figure class="case-study-image">
+  <img src="/images/booking-overlap-personas.jpg" alt="Two core personas: Keepers who hold multiple bookings to compare, and Replacers who book, cancel, and rebook repeatedly">
+  <figcaption>The two personas that shaped our entire strategy: Keepers and Replacers, each with distinct behaviors and pain points.</figcaption>
+</figure>
 
 ---
 
 ## How I Contributed
 
-**Discovered two core personas** through research synthesis: Keepers (who make shortlists and hold bookings until they can compare) and Replacers (who book, cancel, and replace multiple times before deciding).
+**Discovered two core personas** through research synthesis: Keepers, who make shortlists and hold bookings until they can compare, and Replacers, who book, cancel, and replace multiple times before deciding. Understanding this distinction changed our entire approach because what would help one group was completely different from what the other group needed.
 
-**Designed a strategic flow for Keepers** to help them remember, compare, and cancel sooner—reducing their stress while releasing blocked availability.
+**Designed a strategic flow for Keepers** to help them remember, compare, and cancel sooner. The insight behind this was that Keepers weren't avoiding a decision out of laziness; they were holding on because they hadn't yet felt confident enough to let go. So instead of just nudging them to cancel, we focused on helping them feel ready to decide, and that reframing made a real difference in how users responded.
 
-**Created reassurance messaging for Replacers** to address their fear that their first booking wasn't good enough, reducing unnecessary rebooking.
+**Created reassurance messaging for Replacers** to address their fear that their first booking wasn't good enough, which was the underlying driver behind the cycle of booking, cancelling, and rebooking that we kept seeing in interviews.
 
-**Built cross-team alignment** by working with product managers and designers from related teams to implement features that fit into their visions while supporting our behavioral goals.
+**Built cross-team alignment** by working with product managers and designers from related teams to implement features that fit into their visions while supporting our behavioral goals. This collaboration was important because the surfaces we needed to touch belonged to other teams, and the work wouldn't have succeeded without that shared understanding.
 
-**Established iterative design and testing** that involved the full team in synthesis, leading to higher adoption and better results with each iteration.
+**Established iterative design and testing** that involved the full team in synthesis, which led to higher adoption and better results with each round because the whole team understood why we were making the choices we were making.
+
+<figure class="case-study-image">
+  <img src="/images/booking-overlap-iterations.jpg" alt="Design iterations for the cancel-while-booking feature, from early explorations to the final shipped version">
+  <figcaption>Iterating on the cancel-while-booking feature, from early pattern explorations to the final design that users trusted and understood.</figcaption>
+</figure>
 
 ---
 
@@ -101,26 +107,26 @@ I leveraged my research experience to run user interviews each quarter alongside
 
 - Where does uncertainty begin, and how does it compound over time?
 - How can we reduce stress without removing flexibility?
-- Which interventions help users decide sooner rather than later?
+- What helps users decide sooner rather than later?
 - How do we protect system health while supporting conversion goals?
 
 </div>
 </div>
 
 <figure class="case-study-image">
-  <img src="/images/booking-overlap-journey.jpg" alt="Customer journey map for overlapping bookings">
-  <figcaption>Add image: Journey map, behavioral triggers diagram, or audit overview</figcaption>
+  <img src="/images/booking-overlap-keepers-flow.jpg" alt="Strategic flow designed to help Keepers remember, compare, and cancel their overlapping bookings sooner">
+  <figcaption>The full Keepers flow across search, homepage, and booking, designed to help users remember and act on their existing bookings.</figcaption>
 </figure>
 
 ---
 
 ## Result
 
-The research-driven approach helped us ship better experiences faster. Features launched with strong adoption—including a **50% increase in usage** for booking reminders after initial launch, growing to **80% after iteration**. Preventative interventions on search results reduced overlapping bookings by **3% on desktop and 7% on mobile**, with **1 in 4 users directly interacting** with pinned bookings.
+Because we took the time to understand user behavior first, we were able to design with real confidence behind our decisions. Features launched with strong adoption, including a 50% increase in usage for booking reminders after initial launch, growing to 80% after iteration. The preventative work we did on search results reduced overlapping bookings by 3% on desktop and 7% on mobile, with 1 in 4 users directly interacting with pinned bookings.
 
-Most importantly, we created a team culture of understanding user behavior first, which changed how we approached all future work.
+**But what I'm most proud of is that we created a team culture of understanding user behavior first, which genuinely changed how we approached all the work that followed.** The research wasn't just informing individual features; it was shaping how the team thought about problems, and that shift carried well beyond this project.
 
 <figure class="case-study-image">
-  <img src="/images/booking-overlap-final.jpg" alt="Final overlapping bookings features">
-  <figcaption>Add image: Final feature implementations or before/after comparisons</figcaption>
+  <img src="/images/booking-overlap-pinned-bookings.jpg" alt="Pinned bookings on search results helping users compare existing reservations against new options">
+  <figcaption>Pinned bookings on search results, giving Keepers a way to compare their existing reservations at a glance while browsing.</figcaption>
 </figure>

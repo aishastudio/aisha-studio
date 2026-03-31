@@ -1,9 +1,9 @@
 ---
 layout: case-study.njk
 eyebrow: "BOOKING.COM"
-title: "Evolving a Loyalty Program's Identity Without Disrupting Trust"
-subtitle: "Led research and UX strategy to help refine Genius's visual language and tone of voice, ensuring the program could mature and scale while preserving clarity and user confidence."
-description: "Research-led UX strategy for evolving Booking.com's Genius loyalty program identity while maintaining user trust and brand recognition."
+title: "Growing a Loyalty Program's Identity Without Losing Trust"
+subtitle: "Led research and UX strategy to help refine Genius's visual language and tone of voice, helping the program mature and scale without losing its identity."
+description: "Research-led UX strategy for growing Booking.com's Genius loyalty program identity without losing user trust or brand recognition."
 prevCase:
   title: "Booking.com — Repositioning a loyalty program"
   url: "/work/booking-loyalty-tiers/"
@@ -11,9 +11,9 @@ prevCase:
 
 **At a Glance**
 - **Timeline:** 4 months (design and research), plus 6 months post-launch support
-- **Scope:** Research-led identity evolution and UX guidelines documentation for Booking.com's Genius loyalty program
-- **Role:** Lead researcher on a UX taskforce, later paired with Senior Copywriter to create program guidelines
-- **Key challenge:** Evolve a high-performing loyalty program's identity without eroding user trust or brand recognition
+- **Scope:** Research-led identity update and UX guidelines documentation for Booking.com's Genius loyalty program
+- **Role:** Senior UX Designer acting as lead researcher on a UX taskforce, later paired with Senior Copywriter to create program guidelines
+- **Key challenge:** Grow a high-performing loyalty program's identity without diminishing user trust or brand recognition
 
 ---
 
@@ -21,44 +21,43 @@ prevCase:
 
 **What I delivered:**
 
-A research-informed identity evolution that helped Genius feel more mature and scalable while maintaining user trust, plus a living documentation system that enabled consistent execution across teams.
+As part of a UX taskforce, I led the research that informed the identity evolution, helping Genius feel more grown-up and scalable without losing the trust users already had in it. I also helped build a documentation system that gave teams across the company a shared foundation to work from.
 
 **Core deliverables:**
-- **Research framework** embedded throughout the design process—testing tone, visuals, and messaging in iterative phases rather than one validation round
+- **Research framework** that was woven into the design process from the start, with testing happening in iterative phases rather than as a single validation round at the end
 - **Comprehensive research reports** after each phase with key takeaways, detailed findings, and follow-through plans
 - **UX guidelines microsite** documenting tone of voice, visual elements, components, and usage patterns for internal teams
-- **Testing artifacts library** for future reference and iteration
+- **Library of all testing materials** (prototypes, scripts, results) organized for future reference and iteration
 
 
 **Impact:**
 
-- Launched a refreshed Genius identity informed by iterative user feedback
-- Increased internal alignment and confidence through research-backed decisions
-- Established shared guidelines that supported consistent execution across teams
-- Enabled faster collaboration and reduced rework post-launch
+We launched a refreshed Genius identity that was shaped by real user feedback at every stage, which gave the team a level of confidence in the direction that would have been hard to achieve otherwise. The guidelines we created became a shared reference point that helped teams execute consistently and collaborate faster, and the research-backed approach meant fewer debates about direction because the reasoning behind each decision was documented and clear.
+
+<figure class="case-study-image">
+  <img src="/images/booking-genius-identity-system.jpg" alt="Overview of the refreshed Genius identity system showing logo, typography, color, iconography, and photography">
+  <figcaption>The refreshed Genius identity system, including logo, typography, color palette, iconography, and photography direction. Source: portfolio slide(s) showing the identity elements at a glance.</figcaption>
+</figure>
 
 ---
 
 ## Context
 
-A new identity for Genius, Booking.com's loyalty program, was developed by principal designers to help the program mature and scale. As a UX taskforce, we were tasked with extending this identity—both visual language and tone of voice—to ensure it worked across all user touchpoints.
+Principal designers had developed a new identity for Genius, Booking.com's loyalty program, to help it feel more mature and ready to scale. Our UX taskforce was brought in to extend that identity, both the visual language and the tone of voice, and make sure it actually worked across all the places users would encounter it.
 
 ---
 
 ## Challenge
 
-**The core problem:** The identity needed to feel:
-- Trustworthy enough that users wouldn't question the change
-- Understandable so users could immediately recognize their status and benefits
-- Inspirational to encourage engagement and progression
+This came on the heels of the tiered program launch, which had been successful, so we needed to make sure that a refreshed identity didn't undermine the clarity and trust users had just started building with the new tiers. Users needed to still feel confident about their status and benefits, still understand how the program worked, and ideally feel even more engaged with it. Those things can easily pull in different directions when you're changing how something looks and sounds, so finding the right balance was the real challenge.
 
-**The constraints:** We had **4 months** to validate and refine the identity across multiple touchpoints (celebration moments, promotional messages, nudges) while building a foundation that could support future growth. We needed research to inform design decisions early, not just validate finished work.
+We had 4 months to validate and refine the identity across multiple touchpoints, from celebration moments to promotional messages to nudges, while also building a foundation that could support future growth. Research needed to be part of how we made decisions, not something we did at the end to check a box.
 
 ---
 
 ## My Role
 
-I led the research initiative on a small UX taskforce over **4 months**, working closely with the project lead to embed research throughout the discovery and design phases rather than treating it as end-stage validation.
+As a Senior UX Designer, I stepped into the lead researcher role on a small UX taskforce over those 4 months, working closely with the project lead to make sure research wasn't treated as an end-stage checkpoint but was part of how we discovered and designed throughout.
 
 After the successful launch, I partnered with our Senior Copywriter to document the complete identity in a microsite that became the source of truth for all teams working on Genius.
 
@@ -66,27 +65,33 @@ After the successful launch, I partnered with our Senior Copywriter to document 
 
 ## Approach
 
-**Research woven throughout, not tacked on at the end.** Designed multiple research phases to test messaging and design elements iteratively—from paper prototypes in open labs to full funnel prototypes to moderated sessions testing specific moments.
+We started by designing research phases that would test messaging and design elements iteratively, beginning with paper prototypes in open labs and moving through full funnel prototypes to moderated sessions focused on specific moments. The idea was to build understanding gradually rather than trying to test everything at once.
 
-**Precise feedback through targeted testing.** Started with paper prototypes to test tone of voice and visual elements in isolation, gauging initial reactions before combining them into a complete identity package. This gave us more precise feedback and a stronger end result.
+One thing that made a real difference was testing elements in isolation before combining them into a complete identity. We started with tone of voice and visual elements separately, gauging initial reactions to each, which gave us much more precise feedback than if we'd presented the whole package at once. By the time we brought everything together, we'd already worked through the parts that weren't landing.
 
-**Structured reporting for buy-in.** Consolidated each research phase into comprehensive reports with goals, test structure, key takeaways, detailed findings per element, and all testing artifacts. This helped communicate more clearly to stakeholders and increased buy-in from leadership.
+<figure class="case-study-image">
+  <img src="/images/booking-genius-research-phases.jpg" alt="Research phases showing progression from paper prototypes to full funnel testing">
+  <figcaption>We tested in phases, starting with paper prototypes and isolated elements in open labs before moving to full funnel prototypes and moderated sessions. Source: portfolio slides from the Testing & Validation section, or photos from open lab sessions.</figcaption>
+</figure>
 
-**Documentation as collaboration tool.** After launch, created a living microsite with guidelines, components, and use cases—inspired by Shopify's approach of weaving context into every element.
+After each research phase, I consolidated findings into structured reports with goals, test structure, key takeaways, detailed findings per element, and all the testing artifacts. It ended up being one of the most valuable things we did for the project, even though it wasn't originally planned as a major deliverable. It helped us communicate clearly to stakeholders and built the kind of buy-in from leadership that made the rest of the project easier to move forward.
+
+After launch, I partnered with our Senior Copywriter to create a living guidelines microsite, inspired by Shopify's approach of weaving context into every element rather than just listing rules. That philosophy shaped how we built ours and made it something teams actually wanted to use.
+
+<figure class="case-study-image">
+  <img src="/images/booking-genius-guidelines-microsite.jpg" alt="Screenshots of the Genius guidelines microsite showing tone of voice, visual elements, and component documentation">
+  <figcaption>The guidelines microsite documented tone of voice, atomic elements like logo, typography, color and iconography, and a set of flexible components with use cases for each. Source: portfolio slides from the Defining Guidelines and Building the Microsite sections.</figcaption>
+</figure>
 
 ---
 
 ## How I Contributed
 
-**Designed a research approach** that embedded feedback loops throughout discovery and design, testing tone, visuals, and messaging iteratively rather than in one large validation effort.
+I designed a research approach where we were testing tone, visuals, and messaging throughout discovery and design rather than saving it all for one large validation effort. This meant problems surfaced early, when we still had time to think through solutions thoughtfully instead of rushing fixes at the end.
 
-**Built stakeholder confidence** through structured reporting that showed how research informed each decision, helping secure buy-in from leadership who had been uncertain about the identity change.
+Building stakeholder confidence was a big part of my role, and the structured reporting played a key part in that. By showing how research directly informed each decision, we were able to get buy-in from leadership who had initially been uncertain about the identity change. When people could see the reasoning and the evidence behind a direction, the whole dynamic shifted. It stopped being about personal preferences and became about what we'd actually learned from users.
 
-**Found problems early** by testing elements in isolation before combining them, giving the team more time to thoughtfully solve issues rather than rushing fixes at the end.
-
-**Created program guidelines** in partnership with the Senior Copywriter—a microsite documenting tone of voice, visual elements, components, and patterns with clear use cases for teams across the company.
-
-**Enabled consistent execution** by building a permanent, flexible documentation system that reduced onboarding time and improved collaboration with external teams.
+I created the program guidelines in partnership with our Senior Copywriter, documenting tone of voice, visual elements, components, and patterns with clear use cases. The goal was to build something permanent and flexible that would reduce onboarding time, improve collaboration with external teams, and give everyone a shared language for how Genius should look and feel.
 
 ---
 
@@ -95,34 +100,31 @@ After the successful launch, I partnered with our Senior Copywriter to document 
 
 ## Key Questions
 
-**How do we evolve an identity without breaking user trust?**  
-By testing individual elements early and often, before they became a system.
+- How do we grow an identity without breaking user trust?
+- How can research actively shape an identity, not just validate it?
+- How do we help teams apply a new identity consistently at scale?
 
-**How can research actively shape an identity, not just validate it?**  
-By embedding feedback loops throughout discovery and design.
-
-**How do we help teams apply a new identity consistently at scale?**  
-By documenting it clearly, with context and real use cases.
+These questions guided our decisions throughout the project and helped us stay focused on what mattered most, even when there was pressure to move quickly.
 
 </div>
 </div>
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-rebrand-overview.jpg" alt="Genius identity evolution overview">
-  <figcaption>Add image: Before/after comparison or identity system overview</figcaption>
+  <img src="/images/booking-genius-identity-touchpoints.jpg" alt="The refreshed Genius identity applied across a celebration moment, promotional message, or nudge">
+  <figcaption>The identity applied to one of the touchpoints we designed for, whether a celebration moment, a promotional message, or a nudge. This is what the work looked like in the hands of real users. Source: portfolio slides showing the identity in context across the three phases (celebration, promotion, nudging).</figcaption>
 </figure>
 
 ---
 
 ## Result
 
-The research-led approach helped us launch with confidence. The identity resonated with users across all tested criteria—trustworthiness, understandability, and inspiration. 
+Because research was part of the process from the beginning, we were able to launch with a level of confidence that I don't think we would have had otherwise. The identity resonated with users across all the criteria we'd been testing against: trustworthiness, understandability, and inspiration.
 
-Post-launch, the guidelines microsite saw **over 140 people** access and use it in the first 6 months. It was used to successfully design **3 campaigns outside our department**, saving significant time in kickoff meetings previously spent explaining guidelines and resulting in more consistent designs across teams.
+Post-launch, the guidelines microsite saw over 140 people access and use it in the first 6 months. It was used to successfully design 3 campaigns outside our department, which saved significant time in kickoff meetings that had previously been spent explaining guidelines from scratch, and resulted in more consistent designs across teams.
 
-Most importantly, weaving research into the process helped us find and solve problems earlier, launch sooner, and create a more informed, user-centered identity.
+What I'm most proud of, though, is that weaving research into the process from the beginning helped us find and solve problems earlier, launch sooner, and create an identity that was genuinely informed by the people it was meant to serve.
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-rebrand-final.jpg" alt="Final Genius identity in context">
-  <figcaption>Add image: Final identity applied across touchpoints or in live product</figcaption>
+  <img src="/images/booking-genius-campaign-example.jpg" alt="Example of a campaign designed using the Genius guidelines by a team outside our department">
+  <figcaption>One of the campaigns designed outside our department using the guidelines microsite. The fact that other teams could pick this up and run with it was one of the clearest signs the documentation was working. Source: if available, a screenshot of one of the 3 external campaigns. Otherwise, a clean screenshot of the microsite landing page or table of contents as a closing image.</figcaption>
 </figure>
