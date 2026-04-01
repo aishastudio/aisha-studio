@@ -19,6 +19,12 @@
   
   <!-- Canonical URL -->
   <link rel="canonical" href="https://aisha.studio{{ page.url }}">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -86,11 +92,10 @@
       </div>
       <ul>
         <li><a href="mailto:hello@aisha.studio">Send a message</a></li>
-        <li><a href="https://calendly.com/your-link">Schedule an intro call</a></li>
-        <li><a href="https://www.linkedin.com/in/aisha">Find me on LinkedIn</a></li>
+        <li><a href="https://www.linkedin.com/in/aishasoutomaior" target="_blank">Find me on LinkedIn</a></li>
       </ul>
     </div>
-    <p>&copy; {% year %} Aisha. All rights reserved.</p>
+    <p>&copy; {% year %} Aisha Souto-Maior. All rights reserved.</p>
   </footer>
 
   <script>
@@ -125,6 +130,17 @@
       });
     }
   </script>
+
+  <button class="back-to-top" aria-label="Back to top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})">↑</button>
+  <script>
+    const backToTop = document.querySelector('.back-to-top');
+    window.addEventListener('scroll', () => {
+      backToTop.classList.toggle('visible', window.scrollY > 1500);
+    });
+  </script>
+  <!-- 100% privacy-first analytics -->
+  <script data-collect-dnt="true" async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+
 
 </body>
 </html>

@@ -3,7 +3,7 @@ layout: case-study.njk
 eyebrow: "BOOKING.COM"
 title: "Repositioning a Loyalty Program to Support Clarity, Progression, and Scale"
 subtitle: "Led UX strategy and design for the launch of a tiered loyalty program, helping users understand their status while creating a foundation for long-term growth."
-description: "UX strategy and design for launching Genius Levels—transforming Booking.com's static loyalty program into a tiered, dynamic system that users could understand and engage with."
+description: "Led UX strategy for Genius Levels — transforming Booking.com's loyalty program into a tiered system users could understand and engage with."
 prevCase:
   title: "Booking.com — Reducing overlapping bookings"
   url: "/work/booking-overlapping/"
