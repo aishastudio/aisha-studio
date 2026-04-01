@@ -1,0 +1,25 @@
+# Studio Aisha
+
+> Senior UX designer with 15 years of experience helping teams untangle complex product challenges through research, strategy, and design.
+
+## About
+
+Aisha is a Brooklyn-born senior UX designer now based in Montpellier, France. She works as an independent consultant with mid-to-large companies and mature startups, focusing on research-led UX strategy, experience design, and UX process building. She previously held senior roles at Booking.com and Skillcrush.
+
+## Services
+
+- [UX Audit & Strategy](/work-with-me/): Identifying opportunities and creating a prioritized roadmap
+- [UX Design & Testing](/work-with-me/): Research, wireframes, prototypes, and usability testing
+- [UX Process Building](/work-with-me/): Building internal UX practice and capability
+- [Ongoing UX Advisory](/work-with-me/): Monthly strategy calls and design reviews on retainer
+
+## Selected Work
+
+- [Starry — Research-Led Signup Flow Redesign](/work/starry-signup/)
+- [Booking.com — Reducing Overlapping Bookings](/work/booking-overlapping/)
+- [Booking.com — Repositioning a Loyalty Program](/work/booking-loyalty-tiers/)
+- [Booking.com — Evolving a Loyalty Program's Identity](/work/booking-genius-evolution/)
+
+## Contact
+
+[Get in touch](/work-with-me/)
