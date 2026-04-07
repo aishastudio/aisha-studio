@@ -77,8 +77,8 @@ I was the leading designer for web on this initiative, partnering closely with a
 **Centralized information architecture.** Through the research and the UX audit, we saw a clear need to centralize all program information rather than scattering it across the funnel. I redesigned the Genius page to become a single source of truth, keeping communication light throughout the journey while giving users one place to understand the full program.
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-strategy.jpg" alt="User flow mapping and UX audit of existing Genius elements across the funnel">
-  <figcaption>User flow mapping and UX audit of existing Genius elements, containers, and templates across the funnel</figcaption>
+  <img src="/images/genius-ux-copy-audit.jpg" alt="User flow mapping and UX audit of existing Genius elements across the funnel">
+  <figcaption>User flow mapping and UX and copy audit of existing Genius elements, containers, and templates across the funnel helped us clearly scope and define the MVP. It was as much about what to cut out as it was about what to add or redesign.</figcaption>
 </figure>
 
 ---
@@ -101,8 +101,8 @@ I was the leading designer for web on this initiative, partnering closely with a
 **Added a personalized profile block** showing travel history and which trips unlocked the user's current level. This came directly from user feedback during testing, where people told us they wanted to see the program personalized to them and their travel history. It created a real feeling of recognition and achievement.
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-genius-page.jpg" alt="Redesigned Genius page with tier comparison, progression steps, and personalized travel history">
-  <figcaption>Redesigned Genius page with tier comparison, progression steps, and personalized travel history on mobile and desktop</figcaption>
+  <img src="/images/genius-tiers-lp-email.jpg" alt="Updated Genius page and drip email communications with tier comparison, progression steps, and personalized travel history">
+  <figcaption>Updated Genius page and drip email communications with tier comparison, progression steps, and personalized travel history on mobile and desktop</figcaption>
 </figure>
 
 **Coordinated the launch campaign** including a one-time email we tested thoroughly in a day of open labs in our research lab, along with dismissable notifications to reach users who might miss our standard messaging.

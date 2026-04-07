@@ -1,7 +1,7 @@
 ---
 layout: case-study.njk
 eyebrow: "STARRY"
-title: "Research-Led Signup Flow Redesign"
+title: "Adding Complexity to a Signup Flow Without Sacrificing Trust or Conversion"
 subtitle: "Redesigning a complex signup experience to support subscriber growth and an expanding product offering, while maintaining brand trust and strong conversion."
 description: "Research-led UX design for Starry's signup experience evolution, supporting subscriber growth and product expansion while maintaining brand clarity and user trust."
 nextCase:

@@ -64,7 +64,7 @@ p {
 }
 
 a {
-  color: var(--color-accent);
+  color: var(--color-text);
   text-decoration: none;
   background-image: linear-gradient(var(--color-accent), var(--color-accent));
   background-size: 100% 5px;
@@ -76,6 +76,7 @@ a {
 
 a:hover {
   background-size: 100% 5px;
+  color: var(--color-accent);
 }
 
 /* Layout */
@@ -459,6 +460,10 @@ footer {
 }
 
 .connect a {
+  color: var(--color-background);
+}
+
+.connect a:hover {
   color: var(--color-accent);
 }
 
