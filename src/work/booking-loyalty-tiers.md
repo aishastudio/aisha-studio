@@ -14,8 +14,8 @@ nextCase:
 
 **At a Glance**
 - **Timeline:** 4 months
-- **Scope:** UX strategy, design, and launch for Genius Levels—transforming a static loyalty program into a tiered, dynamic system
-- **Role:** Leading designer for web, partnering closely with Product Manager, Researcher, and Copywriter, and working with the app team to mirror experiences
+- **Scope:** UX strategy, design, and launch for Genius Levels. Transforming a static loyalty program into a tiered, dynamic system
+- **Role:** Leading designer for web, partnering closely with Product Manager, Researcher, and Copywriters, and working with the app team to mirror experiences
 - **Key challenge:** Help users immediately recognize and understand a more complex loyalty model without adding friction
 
 ---
@@ -45,13 +45,13 @@ A communication system and experience design that helped users understand where 
 
 ## Context
 
-Genius, Booking.com's loyalty program, started as a static 10% discount with a handful of small perks. The business wanted to evolve it into a tiered, dynamic program that could support growth and give users a clearer picture of where they stood and what their loyalty actually earned them.
+Genius, Booking.com's loyalty program, started as a static 10% discount with a handful of small perks. The business wanted to evolve it into a tiered, dynamic program that could support growth and give users a clearer picture of where they stood and what their loyalty earned them.
 
 ---
 
 ## Challenge
 
-**The core problem:** The shift from a flat discount to a multi-level program meant users would need to understand where they stood with Booking.com in a way they never had before. They needed to:
+**The core problem:** The shift from a flat discount to a multi-level program meant users would need to understand where they stood with Booking.com in a way they hadn't before. They needed to:
 - Immediately recognize their status in the new tiered program
 - Understand how progression worked without added friction
 - See clear value in each tier so the change felt like a genuine reward
@@ -62,7 +62,7 @@ Genius, Booking.com's loyalty program, started as a static 10% discount with a h
 
 ## My Role
 
-I was the leading designer for web on this initiative, partnering closely with a Product Manager, Researcher, and Copywriter, and working with the app team to mirror experiences in a way that better fit their platform. My focus was on UX strategy, structure, and validation, and I relied heavily on aligning and collaborating early on to make sure we could move quickly without second-guessing our direction later.
+I was the leading designer for web on this initiative, partnering closely with our Product Manager, Researcher, and Copywriters, and working with the app team to mirror experiences in a way that better fit their platform. My focus was on UX strategy, structure, and validation, and I relied heavily on aligning and collaborating early on to make sure we could move quickly.
 
 ---
 
@@ -93,7 +93,7 @@ I was the leading designer for web on this initiative, partnering closely with a
 
 **Redesigned the Genius page** with an information architecture that explained the entire program in a way that was easy to understand and absorb, with room for personalization.
 
-**Added a personalized profile block** showing travel history and which trips unlocked the user's current level. This came directly from user feedback during testing, where people told us they wanted to see the program personalized to them and their travel history. It created a real feeling of recognition and achievement.
+**Added a personalized profile block** showing travel history and which trips unlocked the user's current level. This came directly from user feedback during testing, where people told us they wanted to see the program personalized to them and their travel history. It created a feeling of recognition and achievement.
 
 <figure class="case-study-image">
   <img src="/images/genius-page-mvp-tiers.jpg" alt="Updated Genius page with tier comparison, progression steps, and personalized travel history">

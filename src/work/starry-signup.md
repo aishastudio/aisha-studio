@@ -16,7 +16,7 @@ nextCase:
 - **Timeline:** 3 phases over 12 months (initial phase: 7 weeks)
 - **Scope:** Mobile and desktop signup redesign with modular architecture for future expansion
 - **Role:** Senior UX consultant leading strategy, research, and design across product, creative, marketing, and engineering teams
-- **Key challenge:** Tight deadlines, need to add complexity without hurting conversion, and a team that was strong on visual design but needed senior UX leadership to shape the strategy and process
+- **Key challenge:** Tight deadlines, needed to add complexity without hurting conversion, and needed to scale to support multiple product releases over several months
 
 ---
 
@@ -24,7 +24,7 @@ nextCase:
 
 **What I delivered:**
 
-A complete mobile and desktop signup redesign with a modular architecture that could accommodate future business models, from plan customization to paid add-ons, without compromising brand clarity or conversion.
+A complete mobile and desktop signup redesign with a modular architecture that could accommodate future business models, from plan customization to paid add-ons, without compromising brand trust or conversion.
 
 **Core deliverables:**
 - **Information architecture** that allowed engineering to start building while UI was still in development
@@ -35,7 +35,7 @@ A complete mobile and desktop signup redesign with a modular architecture that c
 
 **Impact:**
 
-The work launched on schedule and passed C-suite review with minimal revisions. Post-launch monitoring showed the redesigned flow maintained strong conversion performance and customer satisfaction scores despite adding considerable complexity, and that had been a real concern going in.
+The work launched on schedule and passed C-suite review with minimal revisions. Post-launch monitoring showed the redesigned flow increased their already strong conversion performance and customer satisfaction scores despite adding considerable complexity, and that had been a real concern going in.
 
 The foundation we built supported two additional project phases over the following year, and the testing approach I designed became the company's standard for product launches.
 
@@ -43,12 +43,12 @@ The foundation we built supported two additional project phases over the followi
 
 <figure class="case-study-image">
   <img src="/images/starry-signup-before-after.jpg" alt="Simplified signup flow showing stages and complexity points">
-  <figcaption>Add image: Abstracted journey map or flow diagram showing the signup stages and where new complexity was being introduced. Avoid showing actual Starry UI. A clean, simplified version that communicates scope and structure works best here.</figcaption>
+  <figcaption>From the first phase, the redesign of the signup flow solved outstanding customer pain points while adding flexibility for products and customization.</figcaption>
 </figure>
 
 ## Context
 
-Starry had built a signup experience that worked well, but it was originally designed for customer service reps signing people up in the field, not for the range of plans, add-ons, and customer segments the company was growing into. They needed to evolve it to support that growth while preserving the brand clarity and ease of use that had earned them strong customer satisfaction.
+Starry had built a signup experience that worked well, but it was originally designed for customer service reps signing people up in the field, not for the range of plans, add-ons, and customer segments the company was growing into. They needed to evolve it to support that growth while preserving the brand trust, clarity and ease of use that had earned them strong customer satisfaction.
 
 ---
 
@@ -68,7 +68,7 @@ A big part of my role was also shaping the project structure itself, figuring ou
 
 <figure class="case-study-image">
   <img src="/images/starry-process.jpg" alt="Project structure showing parallel workstreams">
-  <figcaption>Add image: A process artifact that shows how the work was structured. Options include a photo of a research or synthesis wall, a simplified version of the IA, or a diagram of the parallel workstreams (IA informing engineering while UI was still in progress). This is the image your target audience will linger on.</figcaption>
+  <figcaption>Audits, customer journey mapping and cross-functional design studios early on in the process helped us move forward quickly, with easier stakeholder buy in and close collaboration across teams.</figcaption>
 </figure>
 
 ---
@@ -87,7 +87,7 @@ A big part of my role was also shaping the project structure itself, figuring ou
 
 ## How I Contributed
 
-**Designed a research-led workflow** that let engineering begin implementation while UI was still in development, which was key to compressing the timeline without sacrificing quality.
+**Designed a research-led workflow** that let engineering begin implementation while UI was still in development, which was key to keeping a tight timeline without sacrificing quality.
 
 **Built a brand positioning framework** that defined how to introduce paid features transparently, which was later adopted across marketing and product strategy.
 
@@ -101,9 +101,9 @@ A big part of my role was also shaping the project structure itself, figuring ou
 
 ## What Followed
 
-Building on the initial foundation, I continued working with the team through two more phases: research into how the onboarding and customization experience could improve, and then designing a framework for introducing paid add-ons that felt consistent with a brand that had always prioritized honesty over hard selling. All three phases shipped, and together they gave the team a product foundation and a way of working that could carry forward well beyond my engagement.
+Building on the initial foundation, I continued working with the team through two more phases: research into how the onboarding and customization experience could improve, and then designing a framework for introducing paid add-ons that felt consistent with a brand that had always prioritized honesty over hard selling. All three phases launched successfully, and we built a solid team process centered on user experience that could be carried forward to other projects.
 
 <figure class="case-study-image">
   <img src="/images/starry-signup-customization.jpg" alt="Final Starry signup experience on mobile and desktop">
-  <figcaption>Add image: One or two screenshots of the live signup flow as it shipped, ideally showing mobile and desktop side by side or two key stages of the flow. Since this was publicly visible to customers before the acquisition, screenshots of the live product are the safest option here.</figcaption>
+  <figcaption>The intial redesign was able to grow successfully even when adding further customization steps.</figcaption>
 </figure>

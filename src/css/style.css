@@ -279,6 +279,17 @@ nav a[aria-current="page"] {
   margin-bottom: var(--spacing-xs);
 }
 
+.case-study-tile-content h3 a {
+  color: var(--color-text);
+  background-image: none;
+  padding-bottom: 0;
+}
+
+.case-study-tile-content h3 a:hover {
+  color: var(--color-accent);
+  background-image: none;
+}
+
 .case-study-tile .project-label {
   text-transform: uppercase;
   font-size: 0.875rem;

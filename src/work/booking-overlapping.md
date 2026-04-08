@@ -63,7 +63,7 @@ Overlapping bookings, reservations made for the same dates whether fully or part
 
 ## My Role
 
-I was the sole designer on a small cross-functional team for 1.5 years, which meant I was closely involved in nearly every part of the process. I worked with product managers and researchers to connect research findings to product strategy and help build a roadmap focused on strategic behavior change.
+I was the sole designer on a small cross-functional team for 1.5 years, which meant I was closely involved in nearly every part of the process. I worked with our product manager and researcher to connect research findings to product strategy and help build a roadmap focused on strategic behavior change.
 
 Because of my research background, I was able to work alongside our researcher each quarter to run user interviews, and I also conducted additional usability tests as needed. I helped compile and analyze findings to uncover core personas and their triggers, and that closeness to the research shaped how I thought about every design decision.
 
