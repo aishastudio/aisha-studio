@@ -62,9 +62,9 @@ Starry had built a signup experience that worked well, but it was originally des
 
 ## My Role
 
-I was embedded with product, creative, marketing, and engineering teams across **three phases spanning roughly a year**, leading **UX strategy and research** while working closely with the creative director and lead designer on the overall design direction.
-
-A big part of my role was also shaping the project structure itself, figuring out how to keep cross-functional teams aligned and moving in parallel under tight deadlines. That meant being deliberate about when to bring stakeholders in so we could maintain momentum without sacrificing buy-in.
+I worked as a senior UX consultant embedded with product, creative, marketing, and engineering teams across **three phases spanning roughly a year**. I partnered closely with the creative director from the start as my primary sparring partner on strategy and direction, and I led UX strategy, research, information architecture, and wireframing. Visual designers on the creative team then brought those wireframes to full fidelity, which meant I could stay focused on structure, research, and making sure what we were building actually held up under testing.
+ 
+I also designed the project structure itself to keep cross-functional teams aligned and moving in parallel under tight deadlines. A core part of my role was bringing stakeholders in at the right moments to maintain momentum without sacrificing buy-in.
 
 <figure class="case-study-image">
   <img src="/images/starry-process.jpg" alt="Project structure showing parallel workstreams">
@@ -79,7 +79,7 @@ A big part of my role was also shaping the project structure itself, figuring ou
 
 **Research-led iteration.** Multiple rounds of usability testing with real users shaped the work throughout the process, and we iterated based on evidence rather than assumptions.
 
-**Strategic stakeholder timing.** Bringing executives in at the right moments, early enough to get their input but late enough that we had something validated to show, kept decisions grounded in research and user feedback rather than personal preferences.
+**Strategic stakeholder timing.** The creative director and I aligned early on direction, which meant that when we brought executives in we had something concrete and considered to show. That rhythm of aligning first, then presenting, kept us moving without getting stuck in endless review cycles.
 
 **Reusable systems.** Testing frameworks, brand guidelines, and modular design patterns that could support future work without needing to start from scratch.
 
@@ -87,7 +87,7 @@ A big part of my role was also shaping the project structure itself, figuring ou
 
 ## How I Contributed
 
-**Designed a research-led workflow** that let engineering begin implementation while UI was still in development, which was key to keeping a tight timeline without sacrificing quality.
+**Designed a research-led workflow** that let engineering begin implementation while visual design was still being finalized. By delivering the information architecture and wireframes early, the creative team had a clear foundation to build from and engineering didn't have to wait on final visuals to start building, which is what allowed us to compress the timeline without sacrificing quality.
 
 **Built a brand positioning framework** that defined how to introduce paid features transparently, which was later adopted across marketing and product strategy.
 
