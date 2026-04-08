@@ -5,11 +5,11 @@ title: "Reducing Overlapping Bookings by Understanding User Triggers"
 subtitle: "A 1.5-year, full-funnel UX strategy that turned research into real behavior change across search, booking, and post-booking."
 description: "Behavioral UX strategy to reduce overlapping bookings by understanding and addressing the root causes of user stress and indecision."
 prevCase:
-  title: "Starry — Research-Led Signup Flow Redesign"
-  url: "/work/starry-signup/"
-nextCase:
   title: "Booking.com — Repositioning a loyalty program"
   url: "/work/booking-loyalty-tiers/"
+nextCase:
+  title: "Starry — Research-Led Signup Flow Redesign"
+  url: "/work/starry-signup/"
 ---
 
 **At a Glance**

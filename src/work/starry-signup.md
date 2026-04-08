@@ -2,11 +2,14 @@
 layout: case-study.njk
 eyebrow: "STARRY"
 title: "Adding Complexity to a Signup Flow Without Sacrificing Trust or Conversion"
-subtitle: "Redesigning a complex signup experience to support subscriber growth and an expanding product offering, while maintaining brand trust and strong conversion."
+subtitle: "Redesigning a signup experience to support subscriber growth and an expanding product offering, while maintaining brand trust and strong conversion."
 description: "Research-led UX design for Starry's signup experience evolution, supporting subscriber growth and product expansion while maintaining brand clarity and user trust."
-nextCase:
+prevCase:
   title: "Booking.com — Reducing overlapping bookings"
   url: "/work/booking-overlapping/"
+nextCase:
+  title: "Booking.com — Evolving a loyalty program's identity"
+  url: "/work/booking-genius-evolution/"
 ---
 
 **At a Glance**
@@ -38,14 +41,14 @@ The foundation we built supported two additional project phases over the followi
 
 ---
 
+<figure class="case-study-image">
+  <img src="/images/starry-signup-before-after.jpg" alt="Simplified signup flow showing stages and complexity points">
+  <figcaption>Add image: Abstracted journey map or flow diagram showing the signup stages and where new complexity was being introduced. Avoid showing actual Starry UI. A clean, simplified version that communicates scope and structure works best here.</figcaption>
+</figure>
+
 ## Context
 
 Starry had built a signup experience that worked well, but it was originally designed for customer service reps signing people up in the field, not for the range of plans, add-ons, and customer segments the company was growing into. They needed to evolve it to support that growth while preserving the brand clarity and ease of use that had earned them strong customer satisfaction.
-
-<figure class="case-study-image">
-  <img src="/images/starry-signup-flow.jpg" alt="Simplified signup flow showing stages and complexity points">
-  <figcaption>Add image: Abstracted journey map or flow diagram showing the signup stages and where new complexity was being introduced. Avoid showing actual Starry UI. A clean, simplified version that communicates scope and structure works best here.</figcaption>
-</figure>
 
 ---
 
@@ -63,6 +66,11 @@ I was embedded with product, creative, marketing, and engineering teams across *
 
 A big part of my role was also shaping the project structure itself, figuring out how to keep cross-functional teams aligned and moving in parallel under tight deadlines. That meant being deliberate about when to bring stakeholders in so we could maintain momentum without sacrificing buy-in.
 
+<figure class="case-study-image">
+  <img src="/images/starry-process.jpg" alt="Project structure showing parallel workstreams">
+  <figcaption>Add image: A process artifact that shows how the work was structured. Options include a photo of a research or synthesis wall, a simplified version of the IA, or a diagram of the parallel workstreams (IA informing engineering while UI was still in progress). This is the image your target audience will linger on.</figcaption>
+</figure>
+
 ---
 
 ## Approach
@@ -74,11 +82,6 @@ A big part of my role was also shaping the project structure itself, figuring ou
 **Strategic stakeholder timing.** Bringing executives in at the right moments, early enough to get their input but late enough that we had something validated to show, kept decisions grounded in research and user feedback rather than personal preferences.
 
 **Reusable systems.** Testing frameworks, brand guidelines, and modular design patterns that could support future work without needing to start from scratch.
-
-<figure class="case-study-image">
-  <img src="/images/starry-process.jpg" alt="Project structure showing parallel workstreams">
-  <figcaption>Add image: A process artifact that shows how the work was structured. Options include a photo of a research or synthesis wall, a simplified version of the IA, or a diagram of the parallel workstreams (IA informing engineering while UI was still in progress). This is the image your target audience will linger on.</figcaption>
-</figure>
 
 ---
 
@@ -101,6 +104,6 @@ A big part of my role was also shaping the project structure itself, figuring ou
 Building on the initial foundation, I continued working with the team through two more phases: research into how the onboarding and customization experience could improve, and then designing a framework for introducing paid add-ons that felt consistent with a brand that had always prioritized honesty over hard selling. All three phases shipped, and together they gave the team a product foundation and a way of working that could carry forward well beyond my engagement.
 
 <figure class="case-study-image">
-  <img src="/images/starry-final.jpg" alt="Final Starry signup experience on mobile and desktop">
+  <img src="/images/starry-signup-customization.jpg" alt="Final Starry signup experience on mobile and desktop">
   <figcaption>Add image: One or two screenshots of the live signup flow as it shipped, ideally showing mobile and desktop side by side or two key stages of the flow. Since this was publicly visible to customers before the acquisition, screenshots of the live product are the safest option here.</figcaption>
 </figure>

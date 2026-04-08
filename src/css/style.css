@@ -7,7 +7,7 @@
 
 :root {
   --color-text: #1F1C1B;
-  --color-text-light: #666;
+  --color-text-light: #655241;
   --color-background: #FFF8F0;
   --color-accent: #D2694C;
   --color-accent-bg: #DAC4B0;
@@ -232,6 +232,7 @@ nav a[aria-current="page"] {
 .cta:hover {
   background: var(--color-accent);
   background-image: none;
+  color:var(--color-background)
 }
 
 /* Case Studies */
@@ -251,7 +252,7 @@ nav a[aria-current="page"] {
 
 .case-study-tile {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 250px 1fr;
   gap: var(--spacing-md);
   padding: var(--spacing-md);
   border-radius: 0.5rem;
@@ -260,26 +261,18 @@ nav a[aria-current="page"] {
 }
 
 .case-study-tile-image {
-  width: 100%;
+  width: 250px;
   height: 250px;
   border-radius: 0.25rem;
   overflow: hidden;
-  background: #e5e5e5;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #999;
-  font-size: 0.875rem;
 }
 
 .case-study-tile-image img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
-
-.case-study-tile-content {
-  padding: var(--spacing-sm) 0;
+  height: auto;
 }
 
 .case-study-tile h3 {
@@ -403,7 +396,7 @@ nav a[aria-current="page"] {
 .tenure {
   color: var(--color-text);
   font-size: 1.125rem; /* 18px - same as body */
-  margin-bottom: var(--spacing-sm);
+  margin: 0;
 }
 
 .education h3 {
@@ -586,7 +579,7 @@ footer > p {
   max-width: var(--max-width);
 }
 
-.case-study-content .outcome-section ul {
+.case-study-content .outcome-section ul, .case-study-content > ul {
   padding-left: 1.25rem;
 }
 
@@ -666,7 +659,6 @@ footer > p {
 .case-study-callout-content {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 var(--spacing-sm);
 }
 
 .case-study-callout-content ul {
@@ -786,7 +778,7 @@ footer > p {
 
 .service-card {
   padding: var(--spacing-md) var(--spacing-md);
-  border: 1px solid #e5e5e5;
+  border: 1px solid #F3E6E1;
   border-radius: 8px;
   display: flex;
   flex-direction: column;
@@ -811,8 +803,9 @@ footer > p {
 
 .service-subhead {
   font-style: italic;
-  color: #666;
+  color: var(--color-text-light);
   margin-bottom: .5rem;
+  margin-top: 0;
   font-size: 1rem;
 }
 
@@ -881,6 +874,7 @@ footer > p {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: var(--spacing-md);
+  margin-top: 0;
 }
 
 .cta-secondary {
@@ -953,8 +947,8 @@ footer > p {
 }
 
 .faq h2 {
-  margin-top: 0;
-  margin-bottom: var(--spacing-lg);
+  margin-top: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
 }
 
 .faq-grid {
@@ -1053,6 +1047,11 @@ footer > p {
   
   .case-study-tile {
     grid-template-columns: 1fr;
+  }
+
+  .case-study-tile-image {
+    width: 100%;
+    height: 200px;
   }
   
   .skills-education-content {

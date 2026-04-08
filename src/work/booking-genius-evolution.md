@@ -5,6 +5,9 @@ title: "Growing a Loyalty Program's Identity Without Losing Trust"
 subtitle: "Led research and UX strategy to help refine Genius's visual language and tone of voice, helping the program mature and scale without losing its identity."
 description: "Research-led UX strategy for growing Booking.com's Genius loyalty program identity without losing user trust or brand recognition."
 prevCase:
+  title: "Starry — Research-Led Signup Flow Redesign"
+  url: "/work/starry-signup/"
+nextCase:
   title: "Booking.com — Repositioning a loyalty program"
   url: "/work/booking-loyalty-tiers/"
 ---
@@ -34,12 +37,12 @@ As part of a UX taskforce, I led the research that informed the identity evoluti
 
 We launched a refreshed Genius identity that was shaped by real user feedback at every stage, which gave the team a level of confidence in the direction that would have been hard to achieve otherwise. The guidelines we created became a shared reference point that helped teams execute consistently and collaborate faster, and the research-backed approach meant fewer debates about direction because the reasoning behind each decision was documented and clear.
 
+---
+
 <figure class="case-study-image">
   <img src="/images/booking-genius-identity-system.jpg" alt="Overview of the refreshed Genius identity system showing logo, typography, color, iconography, and photography">
   <figcaption>The refreshed Genius identity system, including logo, typography, color palette, iconography, and photography direction. Source: portfolio slide(s) showing the identity elements at a glance.</figcaption>
 </figure>
-
----
 
 ## Context
 
@@ -123,8 +126,3 @@ Because research was part of the process from the beginning, we were able to lau
 Post-launch, the guidelines microsite saw over 140 people access and use it in the first 6 months. It was used to successfully design 3 campaigns outside our department, which saved significant time in kickoff meetings that had previously been spent explaining guidelines from scratch, and resulted in more consistent designs across teams.
 
 What I'm most proud of, though, is that weaving research into the process from the beginning helped us find and solve problems earlier, launch sooner, and create an identity that was genuinely informed by the people it was meant to serve.
-
-<figure class="case-study-image">
-  <img src="/images/booking-genius-campaign-example.jpg" alt="Example of a campaign designed using the Genius guidelines by a team outside our department">
-  <figcaption>One of the campaigns designed outside our department using the guidelines microsite. The fact that other teams could pick this up and run with it was one of the clearest signs the documentation was working. Source: if available, a screenshot of one of the 3 external campaigns. Otherwise, a clean screenshot of the microsite landing page or table of contents as a closing image.</figcaption>
-</figure>

@@ -5,11 +5,11 @@ title: "Repositioning a Loyalty Program to Support Clarity, Progression, and Sca
 subtitle: "Led UX strategy and design for the launch of a tiered loyalty program, helping users understand their status while creating a foundation for long-term growth."
 description: "Led UX strategy for Genius Levels — transforming Booking.com's loyalty program into a tiered system users could understand and engage with."
 prevCase:
-  title: "Booking.com — Reducing overlapping bookings"
-  url: "/work/booking-overlapping/"
-nextCase:
   title: "Booking.com — Evolving a loyalty program's identity"
   url: "/work/booking-genius-evolution/"
+nextCase:
+  title: "Booking.com — Reducing overlapping bookings"
+  url: "/work/booking-overlapping/"
 ---
 
 **At a Glance**
@@ -91,18 +91,13 @@ I was the leading designer for web on this initiative, partnering closely with a
 
 **Chose strategic placements** for communication (homepage, profile, post-booking pages) based on where users would most naturally encounter and understand their status, led by user feedback on where these messages were most helpful.
 
-<figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-awareness-cards.jpg" alt="Reusable awareness cards showing personalized Genius status on desktop and mobile">
-  <figcaption>Reusable awareness cards showing personalized Genius status, level, and benefits on desktop and mobile</figcaption>
-</figure>
-
 **Redesigned the Genius page** with an information architecture that explained the entire program in a way that was easy to understand and absorb, with room for personalization.
 
 **Added a personalized profile block** showing travel history and which trips unlocked the user's current level. This came directly from user feedback during testing, where people told us they wanted to see the program personalized to them and their travel history. It created a real feeling of recognition and achievement.
 
 <figure class="case-study-image">
-  <img src="/images/genius-tiers-lp-email.jpg" alt="Updated Genius page and drip email communications with tier comparison, progression steps, and personalized travel history">
-  <figcaption>Updated Genius page and drip email communications with tier comparison, progression steps, and personalized travel history on mobile and desktop</figcaption>
+  <img src="/images/genius-page-mvp-tiers.jpg" alt="Updated Genius page with tier comparison, progression steps, and personalized travel history">
+  <figcaption>Updated Genius page with tier comparison, progression steps, and personalized travel history on mobile and desktop</figcaption>
 </figure>
 
 **Coordinated the launch campaign** including a one-time email we tested thoroughly in a day of open labs in our research lab, along with dismissable notifications to reach users who might miss our standard messaging.
@@ -135,11 +130,6 @@ During campaign testing, the feedback was encouraging. Users said they felt enga
 The centralized Genius page became the single source of truth for program information, which meant we could keep communication light throughout the funnel while still making sure users had what they needed when they wanted it. It gave us a foundation we could build on, and it reduced the pressure to over-explain at every touchpoint.
 
 <figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-campaign-email.jpg" alt="Launch campaign email introducing Genius Levels with progression tracker and tier comparison">
-  <figcaption>Launch campaign email introducing Genius Levels with progression tracker and tier comparison</figcaption>
-</figure>
-
-<figure class="case-study-image">
-  <img src="/images/booking-genius-tiers-notification.jpg" alt="Dismissable notification introducing Genius Levels across desktop and mobile surfaces">
-  <figcaption>Dismissable notification across desktop homepage, search results, property page, and confirmation</figcaption>
+  <img src="/images/genius-tiers-progression.jpg" alt="Launch campaign email introducing Genius Levels with progression tracker and tier comparison, and further progression exploration">
+  <figcaption>Launch campaign email introducing Genius Levels with progression tracker and tier comparison was well-received by users and led to further testing of progression to increase understanding and motivate users to level up.</figcaption>
 </figure>
